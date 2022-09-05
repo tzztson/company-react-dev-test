@@ -1,0 +1,11 @@
+.heading {
+    font-size: 40px;
+    text-align: left;
+    font-weight: bolder;
+    line-height: 1.8;
+    padding: 15px 0 0;
+}
+
+.heading p {
+    margin: 0;
+}

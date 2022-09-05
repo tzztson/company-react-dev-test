@@ -1,0 +1,11 @@
+.sub-heading {
+    font-size: 15px;
+    text-align: left;
+    line-height: 1.8;
+    padding: 0;
+    margin-bottom: 15px;
+    color: #52525b;
+}
+.sub-heading p {
+    margin: 0;
+}

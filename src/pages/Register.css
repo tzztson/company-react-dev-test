@@ -1,0 +1,33 @@
+.form {
+    max-width: 450px;
+    margin: 50px auto;
+}
+
+.age-wrapper {
+    max-width: 80px;
+    margin-right: 20px;
+}
+
+.gender-wrapper {
+    max-width: 140px;
+}
+
+.gender-wrapper > *:first-child {
+    margin-right: 20px;
+}
+
+.button-wrapper {
+    max-width: 250px;
+    margin: 40px auto 10px;
+}
+
+.error {
+    font-size: 12px;
+    margin-top: 4px;
+    color: red;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+

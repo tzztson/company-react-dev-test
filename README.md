@@ -25,7 +25,7 @@ $ npm run build
 
 Our hope is that we will find the perfect React coder for our full project from this paid test! You will make $50 for this test as we are hiring multiple people to do the test. Pay will be increased for the person who we hire for the full project.
 
-We estimate that the full project will need about 20-25 hours a week for 4-6 weeks with an option of additional work after the first full project is completed. THIS initial project is just a test and we expect it should take 2-4 hours to complete.
+We estimate that the full project will need about 20-25 hours a week for 4-6 weeks with an option of additional work after the first full project is completed. THIS initial project is just a test and we expect it should take 2-4 hours to complete..
 
 ### Full details for the Test Project:
 

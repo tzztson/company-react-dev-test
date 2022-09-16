@@ -38,7 +38,7 @@ Create a react project using the create-react-app utility script. After that cre
 - Create a heading component which renders the primary header of the application and a SubHeading component for the secondary header.
 - Create a custom Input component. The Input component will also render the label. The input will accept as props the label, placeholder, id and any other prop you think is necessary. Style the Input component as you like.
 - Render a form inside the Card component. The form will hav e a heading and a subheading (using the components created) and the following fields: name, surname, email, age, favorite color and two radio buttons with male, and female, as options. It should also have a checkbox with the label in case you would like to receive notifications.
-- The input component should be used to render each field on the form..
+- The input component should be used to render each field on the form.
 - As a validation, for the name, surname and favorite color, the value must be a string without any numbers or special characters. The email should contain the @ symbol and the age must be a number greater than zero.
 - For the previous input components, every time one of them loses focus the validation must run. If there is an error, then the outline of the input should become red and a message under the input should appear informing the user about the error.
 - The form should have two buttons. A cancel button with red background color and white text color and a submit button with green background and light yellow text color. The submit button will be disabled until every input of the form is filled.

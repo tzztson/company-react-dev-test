@@ -64,4 +64,4 @@ Submit your project by creating a public repository on GitHub. Please DELETE the
 If you are relatively competent in React, there is no reason this app should take you much longer than 2-4 hours. That is not a time restriction. It’s only an estimated time to completion.
 
 
-_The instructions above should be clear enough for you to complete the task without any additional information._
+_The instructions above should be clear enough for you to complete the task without any additional informatio
